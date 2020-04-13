@@ -1,0 +1,10 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "scripts": {
+    "lint": "echo 'Lint...'",
+    "test": "echo 'Test...'",
+    "build": "echo 'Build...'"
+  },
+  "dependencies": {}
+}

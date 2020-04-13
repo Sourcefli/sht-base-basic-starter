@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+
+    "**/.nyc_output": true,
+    "**/coverage": true,
+
+    "backend/build": true,
+    "backend/dist": true,
+    "backend/deploy": true,
+
+    "frontend/www": true,
+    "frontend/www-prod": true
+  }
+}
